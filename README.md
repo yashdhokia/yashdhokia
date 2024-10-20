@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏻‍💻 I’m currently working on Typescript, Javascript, Java, Spring boot and Kafka<br>🌱 I’m currently learning React, AWS, Cloud Computing<br>👯 I’m looking to collaborate on React, Java, Spring boot and Kafka<br>💡 I love to solve problems and write the code efficiently<br>⚡ Fun fact I like to explore Nature and different-different places
+🧑🏻‍💻 I’m currently working on Typescript, Javascript, Java, Spring boot and Kafka<br>🌱 I’m currently learning React, AWS, Cloud Computing<br>👯 I’m looking to collaborate on React, Java, Spring boot and Kafka<br>💬 Ask me about CP, DSA<br>📫 How to reach me yashdhokia@gmail.com<br>⚡ Fun fact I like to explore Nature and different-different places
 
 
 ## 🌐 Socials:
